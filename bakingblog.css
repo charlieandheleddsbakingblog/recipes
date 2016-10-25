@@ -1,0 +1,134 @@
+header {
+	text-align: center;
+}
+body {
+	background-image: url("stripes.png");
+}
+h1 {
+	color: #b3d9ff;
+	font-family: mark_my_words;
+	font-size: 60px
+}
+.cupcakegif {border-style: solid;
+	border-color: #ffffcc;
+	border-width: 5px;
+	border-radius: 300px;
+	}
+.header {
+	padding: 10px;
+	background: rgba(255, 204, 255, 0.5);
+}
+.headtext {
+	display: inline;
+	padding: 30px, 300px, 300px, 30px;
+	text-align: center;
+	font-family: Geosanslight-Oblique;
+	color: #b3d9ff;
+}
+ol.lower-alpha {
+	list-style-type: lower-alpha;
+}
+a{
+	color:#ff6699;
+	padding:30px;
+}
+p {
+	font-family: Geosanslight-Oblique;
+	font-size: 30px;
+	color: #b3d9ff;
+	text-align: left;
+}
+@font-face {
+	font-family: mark_my_words;
+	src: url(mark_my_words.otf);
+}
+h2 {
+	font-family: mark_my_words;
+	font-size: 40px;
+	color: #808080;
+}
+@font-face {
+	font-family: Geosanslight-Oblique;
+	src: url(GeosansLight-Oblique.ttf);
+}
+.tooltiptext {
+	position:relative;
+	display: inline-block;
+}
+/* Tooltip text */
+.tooltip .tooltiptext{
+    visibility: hidden;
+    width: 120px;
+    background-color: white;
+    color: #ff6699;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 6px;
+    position:absolute;
+    z-index: 2;
+}
+.tooltip:hover .tooltiptext {
+	visibility: visible;
+}
+.tooltiptext {
+	font-family: Geosanslight-Oblique;
+}
+.tooltip{
+	font-family: mark_my_words;
+}
+.Method {
+	color: #808080;
+}
+p2 {
+	font-family:Geosanslight-Oblique;
+	text-align: left;
+}
+.Method{
+	font-family:Geosanslight-Oblique;
+	text-align: left;
+}
+p1 {
+	font-family:Geosanslight-Oblique;
+	float:left;
+}
+.Ingredients {
+	list-style-type: circle;
+	text-align: left;
+	font-family:mark_my_words;
+	font-size: 15px;
+	float:left;
+	padding-right: 30px;
+}
+.icing_choccake {
+	font-family: Geosanslight-Oblique;
+	color:black;
+	align-content: left;
+}
+.choccakephoto {
+	float:right;
+	border-width:3px;
+}
+.ingredientlist {
+	float:left;
+	text-align:left;
+}
+.chocicing {
+	list-style-type:none;
+}
+.shortbreadphoto .choccakephoto{
+	float:right;
+	border-width:3px
+}
+#rvshort{
+	padding-right:400px
+}
+#cookie_recipes {
+	text-align: center;
+	padding-right: 325px;
+}
+#cupcake_recipes {
+	padding-right: 325px;
+}
+#chocchipimg {
+	padding-right: 200px;
+}
