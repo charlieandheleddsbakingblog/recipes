@@ -4,6 +4,8 @@ header {
 body {
 	background-image: url("bake bg.jpg");
 	background-size:contain;
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 h1 {
 	color: #b3d9ff;
