@@ -133,3 +133,10 @@ p1 {
 #chocchipimg {
 	padding-right: 200px;
 }
+.container {
+	border-style:solid;
+	border-color: white;
+	border-radius: 30px;
+	padding:20px;
+	background-color: white;
+}
