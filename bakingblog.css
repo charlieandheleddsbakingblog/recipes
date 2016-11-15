@@ -2,7 +2,7 @@ header {
 	text-align: center;
 }
 body {
-	background-image: url("bake bg.jpg");
+	background-image: url("bakebg.jpg");
 }
 h1 {
 	color: #b3d9ff;
@@ -108,7 +108,6 @@ p1 {
 	border-width:3px;
 }
 .ingredientlist {
-	float:left;
 	text-align:left;
 }
 .chocicing {
