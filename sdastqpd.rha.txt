@@ -1,0 +1,16 @@
+﻿Revert "Merge remote-tracking branch 'refs/remotes/origin/master' into trying-new-backgrounds"
+
+This reverts commit b63413c632fa77f3aba6fdb1d2b0daf1fea9a59b, reversing
+changes made to 85430c9c3194c61d2384215a9479f6cdf56829a3.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch trying-new-backgrounds
+# Your branch is ahead of 'origin/trying-new-backgrounds' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	deleted:    rainbow cupcake
+#	deleted:    rainbow cupcake.html
+#
+
