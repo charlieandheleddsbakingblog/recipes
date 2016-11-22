@@ -154,3 +154,8 @@ p1 {
 	max-width: 560px;
 	margin:auto;
 }
+#form {
+	margin: auto;
+	width: 100%;
+	align-content: center;
+}
