@@ -2,7 +2,7 @@ header {
 	text-align: center;
 }
 body {
-	background-image: url("flowerbg.jpg");
+	background-image: url("stripes.png");
 	background-size:contain;
 	background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -20,6 +20,7 @@ h1 {
 .header {
 	padding: 10px;
 	background: rgba(255, 204, 255, 0.5);
+	width: 100%;
 }
 .headtext {
 	display: inline;
@@ -150,6 +151,6 @@ p1 {
 	margin: auto;
 }
 #choccakemethodmain {
-	max-width: 600px;
+	max-width: 560px;
 	margin:auto;
 }
