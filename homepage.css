@@ -1,0 +1,39 @@
+header {
+	text-align: center;
+}
+body {
+	background-image: url("stripes.png");
+	background-size:contain;
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+h1 {
+	color: #b3d9ff;
+	font-family: mark_my_words;
+	font-size: 60px
+}
+.cupcakegif {border-style: solid;
+	border-color: #ffffcc;
+	border-width: 5px;
+	border-radius: 300px;
+	}
+.header {
+	padding: 10px;
+	background: rgba(255, 204, 255, 0.5);
+	width: 100%;
+}
+.headtext {
+	display: inline;
+	padding: 30px, 300px, 300px, 30px;
+	text-align: center;
+	font-family: Geosanslight-Oblique;
+	color: #b3d9ff;
+}
+@font-face {
+	font-family: Geosanslight-Oblique;
+	src: url(GeosansLight-Oblique.ttf);
+}
+@font-face {
+	font-family: mark_my_words;
+	src: url(mark_my_words.otf);
+}
