@@ -29,6 +29,13 @@ h1 {
 	font-family: Geosanslight-Oblique;
 	color: #b3d9ff;
 }
+ol.lower-alpha {
+	list-style-type: lower-alpha;
+}
+a{
+	color:#ff6699;
+	padding:30px;
+}
 @font-face {
 	font-family: Geosanslight-Oblique;
 	src: url(GeosansLight-Oblique.ttf);
@@ -36,4 +43,57 @@ h1 {
 @font-face {
 	font-family: mark_my_words;
 	src: url(mark_my_words.otf);
+}
+h2{
+	font-family: mark_my_words;
+	text-align: center;
+	font-size: 30px;
+}
+.welcomemessage {
+ max-width: 150px;
+ position: absolute;
+ top:37px;
+ left: 52px;
+ font-family: Geosanslight-Oblique;
+ font-size: 20px;
+ text-align: center;
+}
+.image {
+	position: relative;
+}
+.subtitle {
+	max-width: 250px;
+	position:absolute;
+	top:75px;
+	left:360px;
+	font-family: Geosanslight-Oblique;
+	font-size: 18px;
+	text-align:center;
+}
+.arrow {
+	position: absolute;
+	top:90px;
+	left:250px;
+}
+.secondarrow{
+	position: absolute;
+	top:50px;
+	left:605px;
+}
+.subtitle2{
+	max-width: 250px;
+	position:absolute;
+	top:0px;
+	left:695px;
+	font-family: Geosanslight-Oblique;
+	font-size: 18px;
+}
+.fbbutton{
+	position:absolute;
+	top:50px;
+	left:778px;
+}
+.description {
+	font-family: Geosanslight-Oblique;
+	font-size: 18px;
 }
