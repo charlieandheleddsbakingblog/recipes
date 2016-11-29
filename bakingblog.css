@@ -132,11 +132,18 @@ p1 {
 #rvshort{
 	padding-right:400px
 }
-
+#cookie_recipes {
+	text-align: center;
+	padding-right: 325px;
 }
 #cupcake_recipes {
 	padding-right: 325px;
 }
+#chocchipimg {
+	padding-right: 200px;
+	position:absolute;
+	left:900px;
+	top:150px;
 }
 .box {
 	border-style:solid;
@@ -150,7 +157,8 @@ p1 {
 	margin:auto;
 }
 .icing_choccake {
-	margin-right: 100px;
+	max-width: 750px;
+	margin: auto;
 }
 #choccakemethodmain {
 	max-width: 560px;
