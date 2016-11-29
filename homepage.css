@@ -54,48 +54,9 @@ h2{
 	text-align: center;
 	font-size: 30px;
 }
-.welcomemessage {
- max-width: 150px;
- position: absolute;
- top:37px;
- left: 52px;
- font-family: Geosanslight-Oblique;
- font-size: 20px;
- text-align: center;
-}
-.image {
-	position: relative;
-}
-.subtitle {
-	max-width: 250px;
-	position:absolute;
-	top:75px;
-	left:360px;
-	font-family: Geosanslight-Oblique;
-	font-size: 18px;
-	text-align:center;
-}
-.arrow {
-	position: absolute;
-	top:90px;
-	left:250px;
-}
-.secondarrow{
-	position: absolute;
-	top:50px;
-	left:605px;
-}
-.subtitle2{
-	max-width: 250px;
-	position:absolute;
-	top:0px;
-	left:695px;
-	font-family: Geosanslight-Oblique;
-	font-size: 18px;
-}
 .fbbutton{
 	position:absolute;
-	top:50px;
+	top:76px;
 	left:778px;
 }
 .description {
